@@ -1,3 +1,3 @@
 hi this is first file for first commit in master
-this is for sencond commit
+merging branch1 into master 
 this is for third commit
