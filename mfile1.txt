@@ -1,3 +1,3 @@
 hi this is first file for first commit in master
 merging branch1 into master 
-this is for third commit
+it will merge the into the branch1 with this change
