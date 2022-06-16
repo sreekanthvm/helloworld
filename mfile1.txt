@@ -2,3 +2,5 @@ hi this is first file for first commit in master
 merging branch1 into master 
 it will merge the into the branch1 with this change
 this next commit after merging the branch1
+this is for third commit
+hi how are you doing, this first commit in branch after merge into master
